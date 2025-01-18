@@ -4,7 +4,7 @@ The Live Score application is a football sports application that presents the re
 
 ## E commerce  mockup
 
-- Plash and OnBoarding screen
+- Splash and OnBoarding screen
   ![Splash and OnBoarding screen]( 
     ![alt text](<Screenshot (14).png>) ![alt text](<Screenshot (32).png>) ![alt text](<Screenshot (11).png>) ![alt text](<Screenshot (12).png>) ![alt text](<Screenshot (13).png>)
   )
