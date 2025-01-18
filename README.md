@@ -9,14 +9,14 @@ The Live Score application is a football sports application that presents the re
     ![alt text](<Screenshot (14).png>) ![alt text](<Screenshot (32).png>) ![alt text](<Screenshot (11).png>) ![alt text](<Screenshot (12).png>) ![alt text](<Screenshot (13).png>)
   )
 
-- Fixture lineups
+<!-- - Fixture lineups
   ![fixture lineups](https://user-images.githubusercontent.com/74488175/187052851-f3a8e80f-7c24-41f0-9758-b8199a56788d.png)
 
 - Fixture Standings
   ![standings](https://user-images.githubusercontent.com/74488175/187052856-c4392b06-4334-4cb3-b05a-c62bbe8b94ef.png)
 
 - Fixture details (events and statistics)
-  ![fixture_details](https://user-images.githubusercontent.com/74488175/187052862-316dfbc6-0f28-4fbc-b276-b950e5b43f10.png)
+  ![fixture_details](https://user-images.githubusercontent.com/74488175/187052862-316dfbc6-0f28-4fbc-b276-b950e5b43f10.png) -->
 
 ### Packages used in the project:
 
