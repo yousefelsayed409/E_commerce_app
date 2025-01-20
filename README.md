@@ -7,7 +7,7 @@ The Live Score application is a football sports application that presents the re
 - Splash and OnBoarding screen
   
     ![alt text](<Screenshot (48).png>) ![alt text](<Screenshot (49).png>) ![alt text](<Screenshot (50).png>) ![alt text](<Screenshot (51).png>)
-  
+   -->
 
 <!-- - Fixture lineups
   ![fixture lineups](https://user-images.githubusercontent.com/74488175/187052851-f3a8e80f-7c24-41f0-9758-b8199a56788d.png)
@@ -35,4 +35,4 @@ The Live Score application is a football sports application that presents the re
 - bloc as State managment
 - Clean code
 - Clean architecture
-- [Restful api](https://www.api-football.com/documentation-v3) -->
+- [Restful api](https://www.api-football.com/documentation-v3)
