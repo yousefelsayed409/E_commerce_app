@@ -1,6 +1,7 @@
 <!-- <!-- <!-- # E Commerce App -->
+## E Commerce App
 
-The Live Score application is a football sports application that presents the results of today's matches, team formations, and match events. It also allows arrangements for leagues and cups such as the English Premier League and the World Cup. -->
+The E-Commerce App is a comprehensive and user-friendly solution designed to provide a seamless shopping experience. Users can browse a wide range of products, add items to favorites or the shopping cart, and complete purchases securely and efficiently. With a sleek design, multi-language support, dark mode, and advanced features like payment integration, this app is built to meet the needs of modern online shoppers. -->
 
 ## E commerce  mockup
 
@@ -43,13 +44,17 @@ The Live Score application is a football sports application that presents the re
 - [dartz](https://pub.dev/packages/dartz)
 - [bloc](https://pub.dev/packages/bloc)
 - [flutter_bloc](https://pub.dev/packages/flutter_bloc)
-- [hexcolor](https://pub.dev/packages/hexcolor)
+- [flutter_localizations](https://pub.dev/packages/flutter_localization)
 - [get_it](https://pub.dev/packages/get_it)
-- [intl](https://pub.dev/packages/intl)
+- [flutter_paypal_checkout](https://pub.dev/packages/flutter_paypal_checkout)
+- [url_launcher](https://pub.dev/packages/url_launcher)
+- [webview_flutter](https://pub.dev/packages/webview_flutter)
+
 
 ### in the project:
 
 - bloc as State managment
 - Clean code
-- Clean architecture
-- [Restful api](https://www.api-football.com/documentation-v3) -->
+- MVVM
+- Restful api
+= Localization 
