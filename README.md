@@ -2,12 +2,12 @@
 
 The Live Score application is a football sports application that presents the results of today's matches, team formations, and match events. It also allows arrangements for leagues and cups such as the English Premier League and the World Cup.
 
-<!-- ## E commerce  mockup
+## E commerce  mockup
 
-<!-- - Splash and OnBoarding screen -->
+- Splash and OnBoarding screen
   
-    ![alt text](<Screenshot (48).png>) ![alt text](<Screenshot (49).png>) ![alt text](<Screenshot (50).png>) ![alt text](<Screenshot (51).png>) -->
-   -->
+    ![alt text](<Screenshot (48).png>) ![alt text](<Screenshot (49).png>) ![alt text](<Screenshot (50).png>) ![alt text](<Screenshot (51).png>)
+  
 
 <!-- - Fixture lineups
   ![fixture lineups](https://user-images.githubusercontent.com/74488175/187052851-f3a8e80f-7c24-41f0-9758-b8199a56788d.png)
@@ -17,8 +17,6 @@ The Live Score application is a football sports application that presents the re
 
 - Fixture details (events and statistics)
   ![fixture_details](https://user-images.githubusercontent.com/74488175/187052862-316dfbc6-0f28-4fbc-b276-b950e5b43f10.png) -->
-
-
 
 ### Packages used in the project:
 
@@ -37,4 +35,4 @@ The Live Score application is a football sports application that presents the re
 - bloc as State managment
 - Clean code
 - Clean architecture
-- [Restful api](https://www.api-football.com/documentation-v3)
+- [Restful api](https://www.api-football.com/documentation-v3) -->
