@@ -11,8 +11,7 @@ The Live Score application is a football sports application that presents the re
  - Auth Screen 
   
   ![alt text](<Auth Screen.PNG>)
-<!-- <!-- - Home and details  Feature -->
-    
+ - Home and details Feature    
     ![alt text](<Home and details.PNG>)
   <!-- ![fixture lineups](https://user-images.githubusercontent.com/74488175/187052851-f3a8e80f-7c24-41f0-9758-b8199a56788d.png)
 
