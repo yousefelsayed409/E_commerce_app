@@ -13,14 +13,13 @@ The Live Score application is a football sports application that presents the re
   ![alt text](<Auth Screen.PNG>)
  - Home and details Feature    
     ![alt text](<Home and details.PNG>)
-  <!-- ![fixture lineups](https://user-images.githubusercontent.com/74488175/187052851-f3a8e80f-7c24-41f0-9758-b8199a56788d.png)
-
-- Fixture Standings
-  ![standings](https://user-images.githubusercontent.com/74488175/187052856-c4392b06-4334-4cb3-b05a-c62bbe8b94ef.png)
-
-- Fixture details (events and statistics)
-  ![fixture_details](https://user-images.githubusercontent.com/74488175/187052862-316dfbc6-0f28-4fbc-b276-b950e5b43f10.png) --> -->
-
+ 
+- Favorite and Add Cart Screen Feature 
+![Favorite](<favorite and add to cart.PNG>)
+  
+- Profile Screen Feature  
+![Profile Feature](profile.PNG)
+  
 ### Packages used in the project:
 
 - [Dio](https://pub.dev/packages/dio)
