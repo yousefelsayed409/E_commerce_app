@@ -8,7 +8,9 @@ The Live Score application is a football sports application that presents the re
 
   ![alt text](Capture.PNG)
   
-
+ - Auth Screen 
+  
+  ![alt text](<Auth Screen.PNG>)
 <!-- - Fixture lineups
   ![fixture lineups](https://user-images.githubusercontent.com/74488175/187052851-f3a8e80f-7c24-41f0-9758-b8199a56788d.png)
 
