@@ -26,6 +26,14 @@ The Live Score application is a football sports application that presents the re
 - Payment Feature 
 
 ![alt text](payment.PNG)
+
+- Dark Mode Screen 
+
+![alt text](<Dark Mode.PNG>)
+
+- localization Feature 
+
+![alt text](localization.PNG)
   
 ### Packages used in the project:
 
