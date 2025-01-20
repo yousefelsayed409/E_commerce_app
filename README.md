@@ -1,4 +1,4 @@
-<!-- <!-- # E Commerce App
+<!-- <!-- <!-- # E Commerce App -->
 
 The Live Score application is a football sports application that presents the results of today's matches, team formations, and match events. It also allows arrangements for leagues and cups such as the English Premier League and the World Cup. -->
 
