@@ -12,13 +12,20 @@ The Live Score application is a football sports application that presents the re
   
   ![alt text](<Auth Screen.PNG>)
  - Home and details Feature    
+
     ![alt text](<Home and details.PNG>)
  
 - Favorite and Add Cart Screen Feature 
+
 ![Favorite](<favorite and add to cart.PNG>)
   
 - Profile Screen Feature  
+
 ![Profile Feature](profile.PNG)
+
+- Payment Feature 
+
+![alt text](payment.PNG)
   
 ### Packages used in the project:
 
