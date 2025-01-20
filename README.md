@@ -57,4 +57,5 @@ The E-Commerce App is a comprehensive and user-friendly solution designed to pro
 - Clean code
 - MVVM
 - Restful api
+- Localization
 
